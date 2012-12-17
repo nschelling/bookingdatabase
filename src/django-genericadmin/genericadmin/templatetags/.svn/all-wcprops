@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/trunk/django-genericadmin/genericadmin/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/19/trunk/django-genericadmin/genericadmin/templatetags/__init__.py
+END
+genericadmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/19/trunk/django-genericadmin/genericadmin/templatetags/genericadmin.py
+END

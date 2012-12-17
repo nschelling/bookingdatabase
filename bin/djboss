@@ -1,0 +1,9 @@
+#!/Users/scott/virtualenvs/bookingdatabase/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'django-boss==0.6.3','console_scripts','djboss'
+__requires__ = 'django-boss==0.6.3'
+import sys
+from pkg_resources import load_entry_point
+
+sys.exit(
+   load_entry_point('django-boss==0.6.3', 'console_scripts', 'djboss')()
+)

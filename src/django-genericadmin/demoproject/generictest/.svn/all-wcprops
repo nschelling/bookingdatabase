@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30/trunk/django-genericadmin/demoproject/generictest
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30/trunk/django-genericadmin/demoproject/generictest/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30/trunk/django-genericadmin/demoproject/generictest/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/30/trunk/django-genericadmin/demoproject/generictest/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/30/trunk/django-genericadmin/demoproject/generictest/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/30/trunk/django-genericadmin/demoproject/generictest/models.py
+END
