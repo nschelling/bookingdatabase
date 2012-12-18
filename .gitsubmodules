@@ -1,7 +1,0 @@
-[submodule "bin/booking"]
-path = bin/booking
-url = git@github:nahana
-
-[submodule "django-filter"]
-path = src/django-filter
-url = https://github.com/alex/django-filter.git
